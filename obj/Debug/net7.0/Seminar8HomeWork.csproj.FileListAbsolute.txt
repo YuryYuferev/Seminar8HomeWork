@@ -1,0 +1,15 @@
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\Seminar8HomeWork.csproj.AssemblyReference.cache
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\Seminar8HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\Seminar8HomeWork.AssemblyInfoInputs.cache
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\Seminar8HomeWork.AssemblyInfo.cs
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\Seminar8HomeWork.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\Seminar8HomeWork\bin\Debug\net7.0\Seminar8HomeWork.exe
+D:\Рабочий стол\Seminar8HomeWork\bin\Debug\net7.0\Seminar8HomeWork.deps.json
+D:\Рабочий стол\Seminar8HomeWork\bin\Debug\net7.0\Seminar8HomeWork.runtimeconfig.json
+D:\Рабочий стол\Seminar8HomeWork\bin\Debug\net7.0\Seminar8HomeWork.dll
+D:\Рабочий стол\Seminar8HomeWork\bin\Debug\net7.0\Seminar8HomeWork.pdb
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\Seminar8HomeWork.dll
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\refint\Seminar8HomeWork.dll
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\Seminar8HomeWork.pdb
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\Seminar8HomeWork.genruntimeconfig.cache
+D:\Рабочий стол\Seminar8HomeWork\obj\Debug\net7.0\ref\Seminar8HomeWork.dll
